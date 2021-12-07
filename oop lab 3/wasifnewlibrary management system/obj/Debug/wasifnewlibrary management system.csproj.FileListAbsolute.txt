@@ -1,0 +1,11 @@
+D:\wasifnewlibrary management system\wasifnewlibrary management system\bin\Debug\wasifnewlibrary management system.exe.config
+D:\wasifnewlibrary management system\wasifnewlibrary management system\bin\Debug\wasifnewlibrary management system.exe
+D:\wasifnewlibrary management system\wasifnewlibrary management system\bin\Debug\wasifnewlibrary management system.pdb
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.csproj.AssemblyReference.cache
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.csproj.SuggestedBindingRedirects.cache
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary_management_system.Form1.resources
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary_management_system.Properties.Resources.resources
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.csproj.GenerateResource.cache
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.csproj.CoreCompileInputs.cache
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.exe
+D:\wasifnewlibrary management system\wasifnewlibrary management system\obj\Debug\wasifnewlibrary management system.pdb
