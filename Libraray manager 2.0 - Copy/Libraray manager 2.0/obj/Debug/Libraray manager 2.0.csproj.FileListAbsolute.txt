@@ -1,0 +1,11 @@
+D:\Libraray manager 2.0\Libraray manager 2.0\bin\Debug\Libraray manager 2.0.exe.config
+D:\Libraray manager 2.0\Libraray manager 2.0\bin\Debug\Libraray manager 2.0.exe
+D:\Libraray manager 2.0\Libraray manager 2.0\bin\Debug\Libraray manager 2.0.pdb
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.csproj.AssemblyReference.cache
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.csproj.SuggestedBindingRedirects.cache
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray_manager_2._0.Form1.resources
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray_manager_2._0.Properties.Resources.resources
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.csproj.GenerateResource.cache
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.csproj.CoreCompileInputs.cache
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.exe
+D:\Libraray manager 2.0\Libraray manager 2.0\obj\Debug\Libraray manager 2.0.pdb
