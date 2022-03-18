@@ -1,0 +1,11 @@
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\bin\Debug\Bank Management system wasif.exe.config
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\bin\Debug\Bank Management system wasif.exe
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\bin\Debug\Bank Management system wasif.pdb
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.csproj.AssemblyReference.cache
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.csproj.SuggestedBindingRedirects.cache
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank_Management_system_wasif.Form1.resources
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank_Management_system_wasif.Properties.Resources.resources
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.csproj.GenerateResource.cache
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.csproj.CoreCompileInputs.cache
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.exe
+D:\wasif007\Bank Management system wasif\Bank Management system wasif\obj\Debug\Bank Management system wasif.pdb
