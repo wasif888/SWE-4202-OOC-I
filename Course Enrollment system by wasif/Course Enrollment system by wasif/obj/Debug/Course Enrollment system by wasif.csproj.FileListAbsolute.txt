@@ -1,0 +1,11 @@
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\bin\Debug\Course Enrollment system by wasif.exe.config
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\bin\Debug\Course Enrollment system by wasif.exe
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\bin\Debug\Course Enrollment system by wasif.pdb
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.csproj.AssemblyReference.cache
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.csproj.SuggestedBindingRedirects.cache
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course_Enrollment_system_by_wasif.Form1.resources
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course_Enrollment_system_by_wasif.Properties.Resources.resources
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.csproj.GenerateResource.cache
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.csproj.CoreCompileInputs.cache
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.exe
+D:\wasif007\Course Enrollment system by wasif\Course Enrollment system by wasif\obj\Debug\Course Enrollment system by wasif.pdb
