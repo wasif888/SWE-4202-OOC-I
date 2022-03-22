@@ -1,0 +1,22 @@
+D:\wasif007\Result Processing System\Result Processing System\bin\Debug\Result Processing System.exe.config
+D:\wasif007\Result Processing System\Result Processing System\bin\Debug\Result Processing System.exe
+D:\wasif007\Result Processing System\Result Processing System\bin\Debug\Result Processing System.pdb
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.csproj.AssemblyReference.cache
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.csproj.SuggestedBindingRedirects.cache
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result_Processing_System.Form1.resources
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result_Processing_System.Properties.Resources.resources
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.csproj.GenerateResource.cache
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.csproj.CoreCompileInputs.cache
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.exe
+D:\wasif007\Result Processing System\Result Processing System\obj\Debug\Result Processing System.pdb
+D:\Lab final200042129\Result Processing System\bin\Debug\Result Processing System.exe.config
+D:\Lab final200042129\Result Processing System\bin\Debug\Result Processing System.exe
+D:\Lab final200042129\Result Processing System\bin\Debug\Result Processing System.pdb
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.csproj.AssemblyReference.cache
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.csproj.SuggestedBindingRedirects.cache
+D:\Lab final200042129\Result Processing System\obj\Debug\Result_Processing_System.Form1.resources
+D:\Lab final200042129\Result Processing System\obj\Debug\Result_Processing_System.Properties.Resources.resources
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.csproj.GenerateResource.cache
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.csproj.CoreCompileInputs.cache
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.exe
+D:\Lab final200042129\Result Processing System\obj\Debug\Result Processing System.pdb
